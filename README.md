@@ -50,3 +50,6 @@
 |Blocksize	|number of bytes following up to end of block|	4 bytes|
 |Blockheader	|consists of 6 items|	80 bytes|
 Transact|		|           |
+
+
+[**转向第二个blockchain**](https://github.com/Billy1900/SimpleBlockchain-2)
