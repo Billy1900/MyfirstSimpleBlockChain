@@ -1,7 +1,7 @@
 # MyfirstSimpleBlockChain-1
 
 ## 1.区块结构
-
+<pre>
   height           区块高度
   
   PrevBlockHash    前一个区块的hash值
@@ -11,10 +11,10 @@
   TimeStamp        时间戳
   
   Hash             hash值
-  
+ </pre> 
 ## 2.计算hash
 
-  此处利用SHA256算法
+此处利用SHA256算法
   
   1）拼接字段：此处运用最简单的方式拼接字段
   
@@ -52,4 +52,4 @@
 Transact|		|           |
 
 
-[**转向第二个blockchain**](https://github.com/Billy1900/SimpleBlockchain-2)
+[**SimpleBlockchain-2**](https://github.com/Billy1900/SimpleBlockchain-2)
